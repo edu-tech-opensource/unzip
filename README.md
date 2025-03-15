@@ -1,4 +1,4 @@
-# TGZ Extractor
+# TGZ Extractor & Zip and Unzip 
 
 This is a simple Python GUI tool built using **Tkinter** to extract `.tgz` files.
 
@@ -43,6 +43,9 @@ python tgz.py
 4. The extraction progress will be displayed in the progress bar.
 5. Once completed, a success message will appear.
 
+<img src="imageszip/tgz.jpg" alt="TGZ Extractor" width="300" height="300">
+
+
 ## ZIP Utility
 This is a Python GUI tool for zipping and unzipping `.zip` files using **Tkinter**.
 
@@ -58,6 +61,8 @@ python zip.py
 3. The selected file(s) will be displayed on the screen.
 4. A progress bar will show the status of the operation.
 5. Once completed, a success message will appear.
+
+<img src="imageszip/zip.jpg" alt="Zip & Unzip" width="300" height="300">
 
 ## Troubleshooting
 - If Tkinter is missing, install it manually:
